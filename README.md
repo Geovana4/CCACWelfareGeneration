@@ -1,7 +1,7 @@
-## Energy Community Management Using Replicator Dynamics and Lagrangian Relaxations
+# Energy Community Management Using Replicator Dynamics and Lagrangian Relaxations
 Paper presented at the CCAC 2025 Conference
 
-# Authors
+## Authors
 1. Sofía Chacón
 
 2. Katerine Guerrero
@@ -10,10 +10,10 @@ Paper presented at the CCAC 2025 Conference
 
 4. Andrés Pantoja
 
-# Abstract
+## Abstract
 This work proposes a model that minimizes costs, maximizes generator rewards, and ensures that the energy produced within the energy community (EC) is efficiently used by its members. In addition, we develop an algorithm that integrates Replicator Dynamics (RD) with a Lagrangian Relaxation (LR) to solve the welfare maximization problem.
 
-# Repository Files
+## Repository Files
 Generadores.m: Code for welfare maximization without filtering.
 
 Generadoresfiltro.m: Code for welfare maximization with filtering.
@@ -26,9 +26,9 @@ GrafoComunidad.m: Code to generate a random graph representing the distribution 
 
 ___________________________________________________________________________________________________________________________________________________________________________________________
 
-Artículo presentado en la conferencia CCAC 2025
+### Artículo presentado en la conferencia CCAC 2025
 
-Autores
+## Autores
 Sofía Chacón
 
 Katerine Guerrero
@@ -37,10 +37,11 @@ Germán Obando
 
 Andrés Pantoja
 
-Resumen
+## Resumen
+
 En este trabajo, se propone un modelo que minimiza los costos, maximiza las recompensas de los generadores y garantiza que la energía producida dentro de la comunidad energética (EC) sea utilizada eficientemente por sus miembros. Además, se desarrolla un algoritmo que integra la dinámica replicadora (Replicator Dynamics, RD) con una relajación Lagrangiana (Lagrangian Relaxation, LR) para resolver el problema de maximización del bienestar.
 
-Archivos del repositorio
+## Archivos del repositorio
 Generadores.m: Código para la maximización del bienestar sin aplicar filtro.
 
 Generadoresfiltro.m: Código para la maximización del bienestar con filtro.
